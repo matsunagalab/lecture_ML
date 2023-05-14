@@ -13,3 +13,6 @@
 
 ## 04 回帰その2：過学習と正則化
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_04.ipynb)
+
+## 05 識別その1：基本的事項
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_05.ipynb)
