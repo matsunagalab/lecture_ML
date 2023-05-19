@@ -16,3 +16,6 @@
 
 ## 05 識別その1：基本的事項
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_05.ipynb)
+
+## 06 識別その2：サポートベクトルマシン
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_06.ipynb)
