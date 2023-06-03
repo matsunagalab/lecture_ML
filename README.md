@@ -22,3 +22,6 @@
 
 ## 07 識別その3：決定木とアンサンブル学習
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_07.ipynb)
+
+## 08 教師なし学習その1：基本的事項
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_08.ipynb)
