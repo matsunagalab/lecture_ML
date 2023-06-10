@@ -25,3 +25,6 @@
 
 ## 08 教師なし学習その1：基本的事項
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_08.ipynb)
+
+## 09 教師なし学習その2：生成モデル入門
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_09.ipynb)
