@@ -28,3 +28,6 @@
 
 ## 09 教師なし学習その2：生成モデル入門
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_09.ipynb)
+
+## 10 教師なし学習その3：階層的クラスタリングと主成分分析
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_10.ipynb)
