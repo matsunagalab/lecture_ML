@@ -33,3 +33,6 @@
 
 ## 11 ニューラルネットワークその1：基本的事項
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_11.ipynb)
+
+## 12 ニューラルネットワークその2：誤差逆伝播法とCNN
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_12.ipynb)
