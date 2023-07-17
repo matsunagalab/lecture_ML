@@ -37,5 +37,8 @@
 ## 12 ニューラルネットワークその2：誤差逆伝播法とCNN
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_12.ipynb)
 
+## 13 ニューラルネットワークその3：VAEと多層化
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13.ipynb)
+
 ## 14 ベイズ推論その1：基本的事項
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_14.ipynb)
