@@ -1,5 +1,5 @@
 # 機械学習 notebooks
-埼玉大学工学部情報工学科で2023年度前期に開講している「機械学習」の講義で、事後学習として用いる Google colab notebooks を置いています。下のバッジをクリックして開いてください。
+埼玉大学工学部情報工学科で前期に開講している「機械学習」の講義で、事後学習として用いる Google colab notebooks を置いています。下のバッジをクリックして開いてください。
 
 ## 01 ガイダンス
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_01.ipynb)
