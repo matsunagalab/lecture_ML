@@ -35,7 +35,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_12.ipynb)
 
 ## 13 ニューラルネットワークその3：代表的なニューラルネット
+CNN 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13_1.ipynb)
+
+VAE
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13_2.ipynb)
 
 ## 14 ベイズ推論その1：基本的事項
