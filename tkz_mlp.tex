@@ -1,0 +1,30 @@
+% can be run at 
+% https://tikz.net/autoencoder/
+
+\documentclass[tikz]{standalone}
+
+\usepackage{neuralnetwork}
+
+\newcommand{\xin}[2]{$x_#2$}
+\newcommand{\xout}[2]{$\hat x_#2$}
+\newcommand{\yout}[2]{$y$}
+
+\begin{document}
+\begin{neuralnetwork}[height=5]
+  \tikzstyle{input neuron}=[neuron, fill=orange!70];
+  \tikzstyle{output neuron}=[neuron, fill=blue!60!black, text=white];
+
+  \inputlayer[count=3, bias=false, title=Input Layer, text=\xin]
+
+  \hiddenlayer[count=4, bias=false, title=Hidden\ Layer]
+  \linklayers
+
+  \hiddenlayer[count=4, bias=false, title=Hidden\ Layer]
+  \linklayers
+
+  \outputlayer[count=1, title=Output Layer, text=\yout]
+  \linklayers
+
+\end{neuralnetwork}
+\end{document}
+
