@@ -2,48 +2,48 @@
 埼玉大学工学部情報工学科で前期に開講している「機械学習」の講義で、事後学習として用いる Google colab notebooks を置いています。下のバッジをクリックして開いてください。
 
 ## 01 ガイダンス
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_01.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_01.ipynb?flush_cache=true)
 
 ## 02 機械学習の種類
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_02.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_02.ipynb?flush_cache=true)
 
 ## 03 回帰その1：基本的事項
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_03.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_03.ipynb?flush_cache=true)
 
 ## 04 回帰その2：過学習と正則化
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_04.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_04.ipynb?flush_cache=true)
 
 ## 05 識別その1：基本的事項
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_05.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_05.ipynb?flush_cache=true)
 
 ## 06 識別その2：サポートベクトルマシン
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_06.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_06.ipynb?flush_cache=true)
 
 ## 07 識別その3：決定木とアンサンブル学習
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_07.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_07.ipynb?flush_cache=true)
 
 ## 08 教師なし学習その1：基本的事項
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_08.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_08.ipynb?flush_cache=true)
 
 ## 09 教師なし学習その2：生成モデル入門
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_09.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_09.ipynb?flush_cache=true)
 
 ## 10 教師なし学習その3：階層的クラスタリングと主成分分析
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_10.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_10.ipynb?flush_cache=true)
 
 ## 12 ニューラルネットワークその2：ニューラルネットの学習
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_12.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_12.ipynb?flush_cache=true)
 
 ## 13 ニューラルネットワークその3：代表的なニューラルネット
 CNN 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13_1.ipynb?flush_cache=true)
 
 VAE
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_13_2.ipynb?flush_cache=true)
 
 ## 14 ベイズ推論その1：基本的事項
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_14.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_14.ipynb?flush_cache=true)
 
 ## 15 ベイズ推論その2：ベイズ線形回帰
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_15.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/lecture_ML/blob/main/machine_learning_15.ipynb?flush_cache=true)
 
